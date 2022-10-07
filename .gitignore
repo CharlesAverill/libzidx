@@ -97,3 +97,6 @@ config.h
 .libs/
 /libtool
 .dirstamp
+
+docs/*
+Doxyfile.bak
